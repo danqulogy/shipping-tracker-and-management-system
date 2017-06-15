@@ -1,0 +1,53 @@
+.text-bold{
+    font-weight:bold;
+}
+
+.fg-white{
+    color: white !important;
+}
+
+.curvy{
+    border-radius: 5px;
+}
+
+.fg-green{
+    color: green !important;
+}
+
+.padding5{
+    padding:5px !important;
+}
+
+
+.fg-red{
+    color:red !important;
+}
+
+.align-center{
+    text-align: center;
+}
+
+table.dataTable thead .sorting_asc:after {
+    display: none;
+}
+
+#app-navbar{
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+    margin-top:10px;
+}
+
+.nav-item.active{
+    background: olive;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    color: white !important;
+    font-weight: 600;
+}
+
+.login.card{
+    margin-top:50px;
+}
+
